@@ -33,17 +33,13 @@ Spoty-TB es una aplicación ligera para Windows que permite controlar y visualiz
 5. inicia Sesion en tu cuenta de Spotify
 
 
-### 🔸 Opción alternativa: Ejecutable directo
-
-También podés descargar el archivo `Spoty-TB.exe` desde la carpeta `/build` y ejecutarlo directamente sin instalación.
-
 ---
 
 ## 🚫 Notas
 
 - Algunos antivirus pueden marcar los `.exe` generados manualmente como "desconocidos". Podés confiar en el archivo si proviene de este repositorio.
 - Spoty-TB **no accede a internet ni recolecta datos**.
-- La app está en desarrollo y puede expandirse con nuevas funcionalidades como letras, integración con Discord, etc.
+- La app está en desarrollo y puede expandirse con nuevas funcionalidades.
 
 ---
 
