@@ -1,0 +1,5 @@
+pystray
+requests
+spotipy
+Pillow
+pywin32
