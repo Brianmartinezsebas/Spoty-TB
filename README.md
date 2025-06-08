@@ -3,6 +3,7 @@
 Spoty-TB es una aplicación ligera para Windows que permite controlar y visualizar la música que se está reproduciendo en Spotify desde la bandeja del sistema, sin necesidad de abrir la app principal. Ideal para quienes quieren acceso rápido a sus controles multimedia y la información de la canción actual, todo en un diseño minimalista y sencillo.
 
 
+
 ---
 
 ## 🧩 Funcionalidades
@@ -11,7 +12,6 @@ Spoty-TB es una aplicación ligera para Windows que permite controlar y visualiz
 - Botones de control: ⏮️ Anterior | ⏯️ Reproducir/Pausar | ⏭️ Siguiente
 - Ícono ligero en la bandeja del sistema
 - Inicia minimizado y no interrumpe al usuario
-- No requiere tener Python instalado
 
 ---
 
@@ -30,6 +30,8 @@ Spoty-TB es una aplicación ligera para Windows que permite controlar y visualiz
 2. Ejecutá el archivo `spoty-tb.exe`
 3. (Opcional) Elegí si querés acceso directo en el escritorio
 4. ¡Listo! Spoty-TB se ejecutará al finalizar la instalación
+5. inicia Sesion en tu cuenta de Spotify
+
 
 ### 🔸 Opción alternativa: Ejecutable directo
 
