@@ -26,7 +26,7 @@ Spoty-TB es una aplicación ligera para Windows que permite controlar y visualiz
 
 ### 🔹 Opción recomendada: Instalador (Inno Setup)
 
-1. Descargá el instalador desde la [sección Releases](https://github.com/tu-usuario/spoty-tb/releases)
+1. Descargá el instalador desde la [sección Releases](https://github.com/Brianmartinezsebas/Spoty-TB/releases)
 2. Ejecutá el archivo `spoty-tb.exe`
 3. (Opcional) Elegí si querés acceso directo en el escritorio
 4. ¡Listo! Spoty-TB se ejecutará al finalizar la instalación
