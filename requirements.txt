@@ -3,3 +3,4 @@ requests
 spotipy
 Pillow
 pywin32
+flask
