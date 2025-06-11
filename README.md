@@ -15,7 +15,10 @@ Spoty-TB es una aplicación ligera para Windows que permite controlar y visualiz
 
 ## Capturas de pantalla
 
+**Vista compacta en la bandeja del sistema**  
 ![Spoty-TB en acción](spoty-tb-screenshot.png)
+
+**Vista expandida con controles e información**  
 ![Spoty-TB en acción expandido](spoty-tb-screenshot-2.png)
 
 
