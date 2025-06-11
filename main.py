@@ -646,6 +646,12 @@ def create_spotify_widget(controller):
                 title_label_expanded.config(text=title)
                 artist_label_expanded.config(text=artists)
 
+                # Actualiza el ícono de play/pause según el estado real
+                if current and current.get("is_playing"):
+                    btn_play_pause.config(image=icon_pause)
+                else:
+                    btn_play_pause.config(image=icon_play)
+
                 # Precarga la imagen del álbum
                 if current and current["item"]["album"]["images"]:
                     img_url = current["item"]["album"]["images"][0]["url"]
@@ -690,8 +696,10 @@ def create_spotify_widget(controller):
             current = controller.sp.current_playback()
             if current and current["is_playing"]:
                 controller.pause()
+                btn_play_pause.config(image=icon_play)
             else:
                 controller.play()
+                btn_play_pause.config(image=icon_pause)
         except:
             pass
 
